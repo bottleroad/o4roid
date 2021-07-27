@@ -1,6 +1,5 @@
-# Flutter
+# Flutter 설치
 
-### 설치
 1. Flutter SDK   
    - flutter.dev 에서 SDK 다운로드
       > c:/Program files에 다운로드 하면 안됨
